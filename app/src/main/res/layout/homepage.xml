@@ -6,8 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container_homepage"
     android:layout_width="match_parent"
-    android:layout_height="845.45dp"
-    android:background="@drawable/container_homepage">
+    android:layout_height="845.45dp">
 
     <FrameLayout
         android:id="@+id/container_iphone_x"
@@ -15,8 +14,7 @@
         android:layout_height="match_parent"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="0dp"
-        android:layout_marginBottom="0dp"
-        android:background="@drawable/container_iphone_x">
+        android:layout_marginBottom="0dp">
 
         <FrameLayout
             android:id="@+id/container_home_screen_one"

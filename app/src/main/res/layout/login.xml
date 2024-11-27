@@ -130,7 +130,6 @@
         android:layout_gravity="bottom|right"
         android:layout_margin="16dp">
 
-
         <Button
             android:id="@+id/login_button"
             android:layout_width="wrap_content"
