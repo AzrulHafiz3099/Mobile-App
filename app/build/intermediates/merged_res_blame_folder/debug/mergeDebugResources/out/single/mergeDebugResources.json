@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_tick2.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\tick2.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link2.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link2.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_image_line.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\image_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_coronavirus_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_coronavirus_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_add_to_cart.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_add_to_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_image_line1.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\image_line1.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_menu.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link6.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link6.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_wishlist.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_drawable_shape_3.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\drawable_shape_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_tickfull.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\tickfull.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_delete.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_addreminder.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\addreminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link9.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link9.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_image_divider.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\image_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_button.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_login.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_profile.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link3.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link3.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_rectangle_1.png.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\rectangle_1.png"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_crop_free_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_crop_free_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_group16.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_group16.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_homepage.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_yourorder.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\yourorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_image_rectangle.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\image_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_drugreminder.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\drugreminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_drawable_shape_2.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\drawable_shape_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_local_pharmacy_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_local_pharmacy_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_medicinereco.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\medicinereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_calendar_month_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_phonelink_setup_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_phonelink_setup_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_addcart.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\addcart.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_image_orange.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\image_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_manage_search_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_drawable_shape.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\drawable_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_meddetailsreminder.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\meddetailsreminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_beige.png.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\beige.png"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_drawable_shape_1.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\drawable_shape_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_tick.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\tick.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.workshop2.medrecapp-debug-31:/layout_register.xml.flat",
+        "source": "com.workshop2.medrecapp-main-33:/layout/register.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_rectangle_2.png.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\rectangle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link7.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link7.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_addremindertimepick.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\addremindertimepick.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_iphone_pro_x.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_iphone_pro_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_drawable_shape_5.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\drawable_shape_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_keyboard_arrow_up_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_keyboard_arrow_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_add_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_search.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link4.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link4.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_map.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\map.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_register.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_add_shopping_cart_25.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_add_shopping_cart_25.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_rectangle_3.png.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\rectangle_3.png"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_symptom.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\symptom.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link5.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link5.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link1.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link1.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_iphone.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_iphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\layout_suggestion.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\layout\\suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_home_screen_one.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_home_screen_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_document_scanner_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_document_scanner_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_drawable_shape_4.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\drawable_shape_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_container_link8.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\container_link8.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.workshop2.medrecapp-debug-31:/layout_login.xml.flat",
+        "source": "com.workshop2.medrecapp-main-33:/layout/login.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_baseline_menu_open_24.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\baseline_menu_open_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-debug-31:\\drawable_image_rectangle1.xml.flat",
+        "source": "C:\\Users\\End User\\.gradle\\daemon\\8.9\\com.workshop2.medrecapp-main-33:\\drawable\\image_rectangle1.xml"
+    }
+]

@@ -1,0 +1,186 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.workshop2.medrecapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.13.0] C:\Users\End User\.gradle\caches\8.9\transforms\e944f210591b8996dbe32dd7cd156c76\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.workshop2.medrecapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.13.0] C:\Users\End User\.gradle\caches\8.9\transforms\e944f210591b8996dbe32dd7cd156c76\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.13.0] C:\Users\End User\.gradle\caches\8.9\transforms\e944f210591b8996dbe32dd7cd156c76\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.workshop2.medrecapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.13.0] C:\Users\End User\.gradle\caches\8.9\transforms\e944f210591b8996dbe32dd7cd156c76\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.13.0] C:\Users\End User\.gradle\caches\8.9\transforms\e944f210591b8996dbe32dd7cd156c76\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:6:5-45:19
+20        android:allowBackup="true"
+20-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:7:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.13.0] C:\Users\End User\.gradle\caches\8.9\transforms\e944f210591b8996dbe32dd7cd156c76\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:8:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:9:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:10:9-43
+27        android:label="@string/app_name"
+27-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:11:9-41
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:17:9-69
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:12:9-54
+30        android:supportsRtl="true"
+30-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:13:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.AppCompat.DayNight"
+32-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:14:9-56
+33        android:usesCleartextTraffic="true" >
+33-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:16:9-44
+34        <activity
+34-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:19:9-27:20
+35            android:name="com.workshop2.medrecapp.Login"
+35-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:20:13-34
+36            android:exported="true" >
+36-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:21:13-36
+37            <intent-filter>
+37-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:22:13-26:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:23:17-69
+38-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:23:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:25:17-77
+40-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:25:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.workshop2.medrecapp.AddCart" />
+43-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:28:9-54
+43-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:28:19-42
+44        <activity android:name="com.workshop2.medrecapp.Addreminder" />
+44-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:29:9-58
+44-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:29:19-46
+45        <activity android:name="com.workshop2.medrecapp.Addremindertimepick" />
+45-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:30:9-66
+45-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:30:19-54
+46        <activity android:name="com.workshop2.medrecapp.Delete" />
+46-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:31:9-53
+46-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:31:19-41
+47        <activity android:name="com.workshop2.medrecapp.Drugreminder" />
+47-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:32:9-59
+47-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:32:19-47
+48        <activity android:name="com.workshop2.medrecapp.Homepage" />
+48-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:33:9-55
+48-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:33:19-43
+49        <activity android:name="com.workshop2.medrecapp.Map" />
+49-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:34:9-50
+49-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:34:19-38
+50        <activity android:name="com.workshop2.medrecapp.MedicineReco" />
+50-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:35:9-59
+50-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:35:19-47
+51        <activity android:name="com.workshop2.medrecapp.Menu" />
+51-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:36:9-51
+51-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:36:19-39
+52        <activity android:name="com.workshop2.medrecapp.Profile" />
+52-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:37:9-54
+52-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:37:19-42
+53        <activity android:name="com.workshop2.medrecapp.Register" />
+53-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:38:9-55
+53-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:38:19-43
+54        <activity android:name="com.workshop2.medrecapp.Search" />
+54-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:39:9-53
+54-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:39:19-41
+55        <activity android:name="com.workshop2.medrecapp.Suggestion" />
+55-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:40:9-57
+55-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:40:19-45
+56        <activity android:name="com.workshop2.medrecapp.Symptom" />
+56-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:41:9-54
+56-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:41:19-42
+57        <activity android:name="com.workshop2.medrecapp.Wishlist" />
+57-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:42:9-55
+57-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:42:19-43
+58        <activity android:name="com.workshop2.medrecapp.YourOrder" />
+58-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:43:9-56
+58-->D:\Azrul\UTEM\WORKSHOP2\MedRecog\app\src\main\AndroidManifest.xml:43:19-44
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+62            android:authorities="com.workshop2.medrecapp.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.3.0] C:\Users\End User\.gradle\caches\8.9\transforms\86f784c8e174a4a1486c67b250e45476\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\End User\.gradle\caches\8.9\transforms\7a7b332fa2a10be6f5d6d0287d611b08\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\End User\.gradle\caches\8.9\transforms\7a7b332fa2a10be6f5d6d0287d611b08\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\End User\.gradle\caches\8.9\transforms\7a7b332fa2a10be6f5d6d0287d611b08\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+71-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+72                android:value="androidx.startup" />
+72-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+73        </provider>
+74
+75        <receiver
+75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+76            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+76-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+77            android:directBootAware="false"
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+78            android:enabled="true"
+78-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+79            android:exported="true"
+79-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+80            android:permission="android.permission.DUMP" >
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+81            <intent-filter>
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+82                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+82-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+82-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+83            </intent-filter>
+84            <intent-filter>
+84-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+85                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+85-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+85-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+86            </intent-filter>
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+88                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+89            </intent-filter>
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+91                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\End User\.gradle\caches\8.9\transforms\c16a31a1dcf547aaee8c41effc95c8d0\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+92            </intent-filter>
+93        </receiver>
+94    </application>
+95
+96</manifest>
